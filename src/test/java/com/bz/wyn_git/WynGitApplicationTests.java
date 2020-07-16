@@ -35,5 +35,7 @@ public class WynGitApplicationTests {
         for (int i = 0; i < 100; i++) {
              a = b+a;
         }
+        int c = 12;
+        System.out.println(a + b);
     }
 }
