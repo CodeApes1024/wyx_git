@@ -30,5 +30,10 @@ public class WynGitApplicationTests {
         System.out.println("本地追加");
         System.out.println("本地追加2");
         System.out.println("本地追加3");
+        int b =15;
+        int a =12;
+        for (int i = 0; i < 100; i++) {
+             a = b+a;
+        }
     }
 }
