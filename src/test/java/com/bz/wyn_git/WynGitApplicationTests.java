@@ -37,5 +37,6 @@ public class WynGitApplicationTests {
         }
         int c = 12;
         System.out.println(a + b);
+        System.out.println("b开发者也写了这一行");
     }
 }
