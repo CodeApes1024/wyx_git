@@ -11,6 +11,7 @@ public class WynGitApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("one");
     }
 
 }
