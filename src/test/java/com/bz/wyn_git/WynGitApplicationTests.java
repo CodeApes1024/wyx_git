@@ -27,5 +27,6 @@ public class WynGitApplicationTests {
     @Test
     public void testThre() {
         System.out.println("本地写的代码");
+        System.out.println("本地追加");
     }
 }
