@@ -18,4 +18,14 @@ public class WynGitApplicationTests {
         System.out.println("111");
         System.out.println("Git上些的代码");
     }
+
+    @Test
+    public void testThree() {
+        System.out.println("three");
+    }
+
+    @Test
+    public void testThre() {
+        System.out.println("本地写的代码");
+    }
 }
